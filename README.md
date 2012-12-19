@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In your application.js manifest:
+
+    //= require jquery.address
+
+or directly available under `/assets/jquery-address.js`
 
 ## Contributing
 
